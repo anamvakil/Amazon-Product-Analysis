@@ -1,2 +1,2 @@
 # Amazon-Product-Analysis
-Python Programming for data cleaning and data visualization 
+The primary objective of analyzing this Amazon Sales Dataset is to gain deeper insights into the relationships between product categories, pricing strategies, customer ratings, and sales trends. By understanding these factors, we aim to identify key characteristics that drive consumer preferences and influence purchasing behaviour. Empower businesses with the insights needed to develop products that effectively meet the evolving needs and preferences of consumers.
